@@ -75,7 +75,7 @@ const portfolio = [
     desc: [
       'after two series set on the capture of the external, the lens was turned inward towards introspection: this project aimed to channel the process into the depiction of internal psyches, the abstract expression of my own hopes and fears.',
       'by taking advantage of the phenomena of visual pareidolia i created distinct masks to act as self- portraits during my struggle with bipolar disorder, produced during manic episodes as documentation of a time i don’t want to remember.',
-      'each one is born out of a necessity of expressing a specific emotional quality (clockwise from top left): repression, desire, ambition, and fatigue, all communicating subtle joys and horrors.',
+      'each one is born out of a necessity of expressing a specific emotional quality (in order of presentation): repression, desire, fatigue, and ambition, all communicating subtle joys and horrors.',
       'to overcome the trauma required a reckoning from a distance i could not reach at the time, so this process was used to document the episodes for reflection at a later time.'
     ],
     gallery: [
