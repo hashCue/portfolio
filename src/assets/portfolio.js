@@ -5,7 +5,7 @@ const portfolio = [
   {
     title: 'architexture',
     desc: [
-      'driven by the constraints of architecture photography in hong kong — that it is near impossible to capture full-height imagery due to the intense density and verticality of the city — this project sought to instead capture the tone and texture of the city’s architecture.', 
+      'driven by the constraints of architecture photography in hong kong — that it is near impossible to capture full-height imagery due to the intense density and verticality of the city — this project sought to instead capture the tone and texture of the city’s architecture.',
       'by using the city as a palette for exploration, the project uses simple tools available to everyone to construct architextures, emphasizing the diverse nature of urban form in hong kong.'
     ],
     gallery: [
