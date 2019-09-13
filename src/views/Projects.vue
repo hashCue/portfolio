@@ -9,7 +9,9 @@
       </div>
       <carousel
         :per-page="1"
-        :paginationActiveColor="orangered"
+        navigationEnabled="true"
+        paginationActiveColor="#FF4500"
+        paginationPosition="bottom-overlay"
         v-if="item.gallery">
         <slide v-for="(image, index) in item.gallery" :key="index">
           <expandable-image :src="image.src" :alt="image.alt"/>
@@ -58,6 +60,8 @@ export default {
     font-size: 0.8em;
     font-style: italic;
     text-align: center;
+    margin-top: 10px;
+    margin-bottom: 35px;
   }
 
   img {
