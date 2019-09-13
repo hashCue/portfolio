@@ -104,7 +104,8 @@ const portfolio = [
       'in just a few dozen lines of code a randomised daily assortment of pills is compiled for the entire calendar year.'
     ],
     image: {
-      
+      src: 'https://res.cloudinary.com/hashcue/image/upload/v1568393964/portfolio/upload/Artboard_1_qaxmoa.png',
+      alt: 'a mosaic of mental health'
     }
   },
   {
@@ -113,7 +114,11 @@ const portfolio = [
       'in case you missed it is a dashboard for snapshots of trending news, culture and music. through the app, the reader can select a date and see the day’s most popular stories from the New York Times, the most commented thread on Reddit, and the top viral hits on Spotify, all on that date.',
       'this work is one of the earlier capstone projects in my web developer education, and the goal of this was to familiarise myself with asynchronous api calls of remote services, integrating multiple feeds from diverse sources into a single web app.',
       'the web app incorporates a front-end built on a standard html/css/js foundation with jquery on top, with the goal being to explore alternative forms of news consumption and to develop products to service them.'
-    ]
+    ],
+    image: {
+      src: 'https://res.cloudinary.com/hashcue/image/upload/v1568394270/portfolio/upload/Artboard_1_rcmn8h.png',
+      alt: 'the web in a day'
+    }
   },
   {
     title: 'upbeat v2',
@@ -123,7 +128,11 @@ const portfolio = [
       'the second iteration was completed as the next capstone in my web development course, this time extending the server-side capabilities of the app.',
       'built on node.js, express, mongodb, i developed a restful api for users to create accounts and be authenticated, as well as to save their patterns to the account on the server and retrieve them at their leisure.',
       'planned revisions to the app involve allowing users to share their creations with the community at large, the addition of other instruments and the refactoring of the codebase to integrate of the tone.js music library to enhance some of the playback features of the sequencer.'
-    ]
+    ],
+    image: {
+      src: 'https://res.cloudinary.com/hashcue/image/upload/v1568394407/portfolio/upload/Artboard_1_vibv0a.png',
+      alt: 'jQuery drum machine'
+    }
   },
   {
     title: 'you had to be there',
@@ -131,7 +140,10 @@ const portfolio = [
       'an experiment in narrative reflection: compressing an hour long conversation into the span of a song length to conceal personal details, while still ostensibly sharing the story of my first major mental health breakdown while i was studying in shanghai.',
       'with the aid of dropbox’s now shuttered carousel feature, the walk through memory lane becomes a mysterious adventure glimpsed through snapshots from an anonymous camera.',
       'years later, the video serves as a time capsule for a period i once deemed too difficult to revisit, the experiment an attempt at gaining closure by exorcising the demons from my cloud storage'
-    ]
+    ],
+    video: {
+      embed: '<iframe src="https://player.vimeo.com/video/143344360" width="375" height="200" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>'
+    }
   }
 ]
 

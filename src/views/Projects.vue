@@ -4,6 +4,9 @@
       <h1>
         {{item.title}}
       </h1>
+      <expandable-image :src="item.image.src" v-if="item.image" :alt="item.image.alt"/>
+      <div v-html="item.video.embed" v-if="item.video">
+      </div>
       <carousel
         :per-page="1"
         :paginationActiveColor="orangered"
