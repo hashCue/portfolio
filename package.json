@@ -10,6 +10,8 @@
   "dependencies": {
     "core-js": "^2.6.5",
     "vue": "^2.6.10",
+    "vue-carousel": "^0.18.0",
+    "vue-expandable-image": "^0.0.2",
     "vue-router": "^3.0.3"
   },
   "devDependencies": {

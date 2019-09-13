@@ -1,6 +1,12 @@
 import Vue from 'vue';
-import App from './App.vue';
+import VueCarousel from 'vue-carousel';
+import VueExpandableImage from 'vue-expandable-image';
 import router from './router';
+
+import App from './App.vue';
+
+Vue.use(VueCarousel);
+Vue.use(VueExpandableImage);
 
 Vue.config.productionTip = false;
 
