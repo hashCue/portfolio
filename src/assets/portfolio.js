@@ -139,7 +139,8 @@ const portfolio = [
     desc: [
       'an experiment in narrative reflection: compressing an hour long conversation into the span of a song length to conceal personal details, while still ostensibly sharing the story of my first major mental health breakdown while i was studying in shanghai.',
       'with the aid of dropbox’s now shuttered carousel feature, the walk through memory lane becomes a mysterious adventure glimpsed through snapshots from an anonymous camera.',
-      'years later, the video serves as a time capsule for a period i once deemed too difficult to revisit, the experiment an attempt at gaining closure by exorcising the demons from my cloud storage'
+      'years later, the video serves as a time capsule for a period i once deemed too difficult to revisit, the experiment an attempt at gaining closure by exorcising the demons from my cloud storage',
+      'p/w: portfolio'
     ],
     video: {
       embed: '<iframe src="https://player.vimeo.com/video/143344360" width="375" height="200" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>'
