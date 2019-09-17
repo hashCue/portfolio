@@ -21,6 +21,9 @@
       <p v-for="(para, index) in item.desc" :key="index">
         {{para}}
       </p>
+      <p v-if="item.link">
+        <a :href="item.link">project link</a>
+      </p>
     </article>
   </main>
 </template>

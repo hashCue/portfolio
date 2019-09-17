@@ -115,6 +115,7 @@ const portfolio = [
       'this work is one of the earlier capstone projects in my web developer education, and the goal of this was to familiarise myself with asynchronous api calls of remote services, integrating multiple feeds from diverse sources into a single web app.',
       'the web app incorporates a front-end built on a standard html/css/js foundation with jquery on top, with the goal being to explore alternative forms of news consumption and to develop products to service them.'
     ],
+    link: 'https://github.com/LorenzoBorje/icymi',
     image: {
       src: 'https://res.cloudinary.com/hashcue/image/upload/v1568394270/portfolio/upload/Artboard_1_rcmn8h.png',
       alt: 'the web in a day'
@@ -129,6 +130,7 @@ const portfolio = [
       'built on node.js, express, mongodb, i developed a restful api for users to create accounts and be authenticated, as well as to save their patterns to the account on the server and retrieve them at their leisure.',
       'planned revisions to the app involve allowing users to share their creations with the community at large, the addition of other instruments and the refactoring of the codebase to integrate of the tone.js music library to enhance some of the playback features of the sequencer.'
     ],
+    link: 'https://github.com/LorenzoBorje/drum-machine-v2',
     image: {
       src: 'https://res.cloudinary.com/hashcue/image/upload/v1568394407/portfolio/upload/Artboard_1_vibv0a.png',
       alt: 'jQuery drum machine'
