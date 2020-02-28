@@ -147,7 +147,23 @@ const portfolio = [
     video: {
       embed: '<iframe src="https://player.vimeo.com/video/143344360" width="375" height="200" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>'
     }
-  }
+  },
+  {
+    title: 'seen',
+    desc: [
+      'seen is a zine from hong kong',
+      'seen v0.2 is v0.2 of seen online.', 
+      'seen is a zine in print, via mail.',
+      'seen is a collection of anonymous poetry',
+      'gathered around the time of the troubles',
+      'at the turn of the decade'
+    ],
+    link: 'https://seen.plusplus.hk',
+    image: {
+      src: 'https://res.cloudinary.com/hashcue/image/upload/v1582855527/im_hsswzu.jpg',
+      alt: 'seen zine preview'
+    }
+  },
 ]
 
 module.exports = {
